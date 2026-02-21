@@ -1,10 +1,3 @@
-# Data_Immersion_Project
-Data Wrangling &amp; EDA project converting raw sales data into clean, analysis-ready insights using Python.
-Excellent 👏 let’s make it **strong, professional, and useful for recruiters** — not just simple.
-
-You can copy-paste this directly into your GitHub repository description or README.
-
----
 
 # 📊 Data Immersion Project
 
